@@ -2,7 +2,7 @@
   <img src="https://i.discord.fr/PSS.png">
 </p>
 
-<h1 align="center">[Discord] - ATIO (V1.1.8)</h1>
+<h1 align="center">[Discord] - DROP (V1.1.8)</h1>
 <p align="center">
   <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
@@ -25,15 +25,15 @@
 </p>
 
 <p align="center">
-  [Discord] - ATIO is a Script Gathering for Windows/Linux systems written in Python.
+  [Discord] - DROP is a Script Gathering for Windows/Linux systems written in Python.
 </p>
 
 ## Disclaimer
 
-|ATIO was made for Educational purposes|
+|DROP was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
-By using ATIO, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+By using DROP, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 ## Features
 - [ ] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
